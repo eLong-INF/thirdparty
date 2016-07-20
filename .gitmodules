@@ -1,0 +1,6 @@
+[submodule "muduo.git"]
+	path = muduo.git
+	url = https://github.com/eLong-INF/muduo.git
+[submodule "sofa.git"]
+	path = sofa.git
+	url = https://github.com/eLong-INF/sofa-pbrpc.git
